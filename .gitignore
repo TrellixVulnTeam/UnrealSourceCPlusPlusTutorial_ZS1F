@@ -196,10 +196,11 @@ Engine/Binaries/Android/packageInfo.txt
 enc_temp_folder/
 
 # Ignore content folders
-/Engine/Content/
+/Engine/Content/**
+/Engine/Plugins/**/Content/**
 
-!/MetalInMotion/Content/
-!/Grip/Content/
+!/MetalInMotion/Content/**
+!/Grip/Content/**
 
 # Ignore DDC
 /Engine/DerivedDataCache/**
