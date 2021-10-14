@@ -196,7 +196,10 @@ Engine/Binaries/Android/packageInfo.txt
 enc_temp_folder/
 
 # Ignore content folders
-Content/
+/Engine/Content/
+
+!/MetalInMotion/Content/
+!/Grip/Content/
 
 # Ignore DDC
 /Engine/DerivedDataCache/**
@@ -230,3 +233,6 @@ Saved/
 
 # Ignore the headers and cpp files in the clang toolchain on Linux
 Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
+
+
+
