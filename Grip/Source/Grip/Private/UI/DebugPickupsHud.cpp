@@ -1,6 +1,6 @@
 /**
 *
-* The GRIP module.
+* Pickups debugging HUD.
 *
 * Original author: Rob Baker.
 * Current maintainer: Rob Baker.
@@ -9,6 +9,5 @@
 *
 ***********************************************************************************/
 
-#pragma once
-
-#include "CoreMinimal.h"
+#include "ui/debugpickupshud.h"
+#include "vehicle/flippablevehicle.h"

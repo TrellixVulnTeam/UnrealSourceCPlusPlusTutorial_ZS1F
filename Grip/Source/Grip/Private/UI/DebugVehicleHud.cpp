@@ -1,6 +1,6 @@
 /**
 *
-* The GRIP module.
+* Vehicle debugging HUD.
 *
 * Original author: Rob Baker.
 * Current maintainer: Rob Baker.
@@ -9,6 +9,6 @@
 *
 ***********************************************************************************/
 
-#pragma once
-
-#include "CoreMinimal.h"
+#include "ui/debugvehiclehud.h"
+#include "vehicle/flippablevehicle.h"
+#include "physicsengine/physicssettings.h"

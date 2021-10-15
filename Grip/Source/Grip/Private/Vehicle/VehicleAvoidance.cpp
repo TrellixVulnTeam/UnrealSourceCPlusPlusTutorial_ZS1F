@@ -1,6 +1,6 @@
 /**
 *
-* The GRIP module.
+* Vehicle AI implementation.
 *
 * Original author: Rob Baker.
 * Current maintainer: Rob Baker.
@@ -9,6 +9,6 @@
 *
 ***********************************************************************************/
 
-#pragma once
-
-#include "CoreMinimal.h"
+#include "vehicle/flippablevehicle.h"
+#include "ai/avoidancesphere.h"
+#include "game/globalgamestate.h"
