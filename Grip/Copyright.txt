@@ -1,0 +1,16 @@
+This code and data is copyright to Caged Element Inc. 
+
+You're perfectly free to use it in any way you like privately, you just can't use it a public context, like a video game.
+
+Specifically, what we're really trying to avoid here with this copyright, is students pumping out GRIP clone after GRIP clone. 
+
+Naturally, this isn't why we produced the course. 
+
+It was produced for you to learn from, to do your own thing, and not simply replicate GRIP publicly with the code and data we provide to you.
+ 
+We provide this for educational purposes only, within the confines of this course. 
+
+However, all that said, we are pragmatic about this, and we're happy for you to make use of the CODE provided, for anything that doesn't look like GRIP. The DATA assets however remain copyrighted, as obviously they are very visibly, GRIP
+
+For any information at https://www.udemy.com/course/pro-unreal-engine-game-coding/ and please support the game at https://store.steampowered.com/app/396900/GRIP_Combat_Racing/
+
