@@ -200,7 +200,8 @@ enc_temp_folder/
 /Engine/Plugins/**/Content/**
 
 !/MetalInMotion/Content/**
-!/Grip/Content/**
+/Grip/Content/**
+/Grip/Source/**
 
 # Ignore DDC
 /Engine/DerivedDataCache/**
