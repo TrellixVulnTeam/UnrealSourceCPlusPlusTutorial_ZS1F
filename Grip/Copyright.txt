@@ -14,3 +14,4 @@ However, all that said, we are pragmatic about this, and we're happy for you to 
 
 For any information at https://www.udemy.com/course/pro-unreal-engine-game-coding/ and please support the game at https://store.steampowered.com/app/396900/GRIP_Combat_Racing/
 
+Grip Content and Source folder at https://github.com/ngminteck/Grip
